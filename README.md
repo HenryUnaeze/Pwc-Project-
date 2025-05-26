@@ -70,4 +70,4 @@ Below are the insight of customer risk analysis
 3. Currently, this method is reactive—reaching out only after contracts end—but a proactive strategy to identify customers at risk of leaving would yield better results.
 ## Diversity and Inclusion 
 ![alt text](https://github.com/HenryUnaeze/Pwc-Project-/blob/main/Pwc%20Task%203%20(Div%20and%20Inclu).png)
-![alt text]
+![alt text](https://github.com/HenryUnaeze/Pwc-Project-/blob/main/Pwc%20Task%203.1.png)
