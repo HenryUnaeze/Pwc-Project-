@@ -74,24 +74,24 @@ Below are the insight of customer risk analysis
 
 Overview of the Diversity & Inclusion Metrics in the HRD Dashboard:
 ### Hiring
-. Female employees are consistently outnumbered by male employees at every job level.
-. The representation of women declines progressively from entry-level positions to senior roles.
+- Female employees are consistently outnumbered by male employees at every job level.
+- The representation of women declines progressively from entry-level positions to senior roles.
 ### Promotions
-. Fewer women receive promotions compared to men.
-. Women spend more time on average at their current level before being promoted than men do.
-. The share of female employees continues to drop as job levels rise.
+- Fewer women receive promotions compared to men.
+- Women spend more time on average at their current level before being promoted than men do.
+- The share of female employees continues to drop as job levels rise.
 ### Turnover
-. Women generally receive lower performance ratings than their male counterparts.
-. Female employees exhibit a higher likelihood of leaving the organization than males.
+- Women generally receive lower performance ratings than their male counterparts.
+- Female employees exhibit a higher likelihood of leaving the organization than males.
 ### Executive Diversity
-. Women are underrepresented in executive positions relative to men.
-. A slight increase in the proportion of female executives was observed in FY21 compared to FY20.
+- Women are underrepresented in executive positions relative to men.
+- A slight increase in the proportion of female executives was observed in FY21 compared to FY20.
 ### Performance Rating
-. On average, women receive higher performance ratings than men.
-. However, fewer women achieve an “Excellent” rating compared to men.
+- On average, women receive higher performance ratings than men.
+- However, fewer women achieve an “Excellent” rating compared to men.
 ### Age Group
-. The percentage of female employees decreases with advancing age groups.
-. There is a greater proportion of male employees aged 50 and above than females in the same age bracket.
+- The percentage of female employees decreases with advancing age groups.
+- There is a greater proportion of male employees aged 50 and above than females in the same age bracket.
 ## Potential Diversity & Inclusion Issues Highlighted by the HRD Dashboard
 1. Significant gender disparities exist in hiring and promotion, with women notably underrepresented at higher organizational levels.
 
