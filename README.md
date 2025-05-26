@@ -39,4 +39,24 @@ The overall average speed of answer was 67.53 seconds, which is moderately accep
 There is a clear need to improve satisfaction levels and reduce unresolved cases.
 
 # Customer Retention 
-![alt text]()
+![alt text](https://github.com/HenryUnaeze/Pwc-Project-/blob/main/Pwc%20Task%202.png)
+
+## 👥 Customer Demographics
+Gender Split: Roughly equal distribution between male and female.
+Senior Citizens: 25%
+Customers with Partners: 36%
+Dependent Customers: 17%
+## 📅 Customer Tenure
+29% of customers have been subscribed for less than one year, suggesting that newer customers are more prone to churn.
+Only 21% have been with the company for over six years, implying potential issues with long-term retention.
+
+## 💳 Account Details & Billing Preferences
+Most Common Payment Method:
+Electronic Check: 34%
+Followed by Mailed Checks, Bank Transfers, and Credit Cards (22–23% each).
+Paperless Billing Adoption: 40.8%
+Average Monthly Charges: $64.76
+Total Charges (All Time): ~$2,283.30
+## Contract Types:
+Month-to-Month is dominant, which can be a churn risk.
+Two-year contracts are least common, suggesting fewer customers are locked into long-term agreements.
