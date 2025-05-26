@@ -19,39 +19,21 @@ Below information explains the visual above for call center performance reeview
 
 ## 1. Call Answering Performance
 Over the three-month period, a total of 4,880 calls were recorded. Out of these:
-
 81.11% (3,960 calls) were successfully answered.
 18.89% (920 calls) went unanswered.
 This high answering rate indicates efficient call handling at the call centre.
-
 ## 2. Issue Resolution Rate
 Among the answered calls:
-
 72.94% (3,561 calls) were resolved successfully.
 27.06% (1,319 calls) remained unresolved.
 Although a majority of calls were resolved, there’s a significant percentage of unresolved issues that may affect customer satisfaction.
-
 ## 3. Customer Satisfaction
 The average customer satisfaction score across all agents was 2.76 out of 5.
 This is noticeably below the expected benchmark of 4.2, pointing to potential dissatisfaction with the service quality, tone, or resolution effectiveness.
-
-## 4. Agent Performance Analysis
-Here are key insights into individual agent performance:
-
-Jim handled the highest number of calls (524) and resolved 474 of them.
-
-Dan achieved the highest customer satisfaction score (2.85).
-
-Becky had the fastest average response time at 64.93 seconds.
-
-Joe had the slowest response time, averaging 70.83 seconds.
-
 All agents contributed significantly, but variations in response time and satisfaction scores suggest training and quality consistency can be improved.
-
 ## 5. Monthly Call Volume Trends
 Call volumes were relatively stable each month, with around 1,900 calls received in January, February, and March.
 The majority of calls each month were answered, reflecting consistent service delivery.
-
 ## 6. Overall Efficiency
 The overall average speed of answer was 67.53 seconds, which is moderately acceptable.
 There is a clear need to improve satisfaction levels and reduce unresolved cases.
