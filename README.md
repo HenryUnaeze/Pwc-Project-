@@ -67,5 +67,7 @@ Two-year contracts are least common, suggesting fewer customers are locked into 
 Below are the insight of customer risk analysis
 1. Customer retention in the telecom industry is vital because gaining new customers is significantly more difficult.
 2. The retention team is essential for reconnecting with customers who have chosen to cancel their contracts.
-3. Currently, this method is reactive—reaching out only after contracts end—but a proactive strategy to identify customers at risk of leaving would yield better results
-   
+3. Currently, this method is reactive—reaching out only after contracts end—but a proactive strategy to identify customers at risk of leaving would yield better results.
+## Diversity and Inclusion 
+![alt text](https://github.com/HenryUnaeze/Pwc-Project-/blob/main/Pwc%20Task%203%20(Div%20and%20Inclu).png)
+![alt text]
