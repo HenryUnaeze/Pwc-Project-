@@ -71,3 +71,40 @@ Below are the insight of customer risk analysis
 ## Diversity and Inclusion 
 ![alt text](https://github.com/HenryUnaeze/Pwc-Project-/blob/main/Pwc%20Task%203%20(Div%20and%20Inclu).png)
 ![alt text](https://github.com/HenryUnaeze/Pwc-Project-/blob/main/Pwc%20Task%203.1.png)
+
+Overview of the Diversity & Inclusion Metrics in the HRD Dashboard:
+### Hiring
+Female employees are consistently outnumbered by male employees at every job level.
+The representation of women declines progressively from entry-level positions to senior roles.
+### Promotions
+Fewer women receive promotions compared to men.
+Women spend more time on average at their current level before being promoted than men do.
+The share of female employees continues to drop as job levels rise.
+### Turnover
+Women generally receive lower performance ratings than their male counterparts.
+Female employees exhibit a higher likelihood of leaving the organization than males.
+### Executive Diversity
+Women are underrepresented in executive positions relative to men.
+A slight increase in the proportion of female executives was observed in FY21 compared to FY20.
+### Performance Rating
+On average, women receive higher performance ratings than men.
+However, fewer women achieve an “Excellent” rating compared to men.
+### Age Group
+The percentage of female employees decreases with advancing age groups.
+There is a greater proportion of male employees aged 50 and above than females in the same age bracket.
+## Potential Diversity & Inclusion Issues Highlighted by the HRD Dashboard
+Significant gender disparities exist in hiring and promotion, with women notably underrepresented at higher organizational levels.
+
+Gender differences in performance ratings and turnover suggest women face barriers that may hinder their career progression.
+
+The scarcity of female executives points to a need for strengthening the leadership pipeline for women.
+
+# Recommendations for Enhancing Diversity & Inclusion in the HRD Dashboard
+
+Adopt strategies to attract and retain women, including focused recruitment, mentorship opportunities, and leadership training.
+
+Address potential bias in performance evaluations by introducing unconscious bias training and creating gender-neutral appraisal systems.
+
+Offer flexible working options to support women’s career growth and better work-life integration.
+
+Establish clear promotion targets for women and create defined pathways to executive roles
