@@ -14,3 +14,4 @@ Here are tasks breakdown;
 # 📊 Simulation Tasks Overview – PwC Switzerland Power BI Program on Forage.
 ### Visualization 
 ## Insights into Call Centre Trends
+![alt text](C:\Users\Henry Unaeze\OneDrive\Desktop\Personal Data Analyst Projects\Power BI\PwC Project\Task 2)
