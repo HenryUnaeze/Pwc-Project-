@@ -6,3 +6,9 @@ When I came across a job simulation opportunity, I eagerly took on the challenge
 ## Introduction 
 Forage is an online platform that offers virtual job simulations, giving students and professionals from all backgrounds the opportunity to explore what it's like to work at some of the world’s leading companies.
 I took part in PwC Switzerland’s Power BI Virtual Experience Program, designed to help participants build practical skills in data analysis and dashboard creation using Power BI.
+The simulation is structured around three core tasks:
+1.Task 1: Call Centre Trends — Analyze customer and agent behaviors by creating a Power BI dashboard to visualize key performance indicators (KPIs) and patterns from the provided dataset.
+2.Task 2: Customer Retention — Use defined KPIs to build a dashboard focused on customer demographics and retention insights.
+3.Task 3: Diversity & Inclusion — Develop visualizations based on HR data, with an emphasis on gender-related metrics within the executive team
+Here are tasks breakdown;
+# 📊 Simulation Tasks Overview – PwC Switzerland Power BI Program on Forage
