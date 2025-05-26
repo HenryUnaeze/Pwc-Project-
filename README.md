@@ -11,4 +11,6 @@ The simulation is structured around three core tasks:
 2.Task 2: Customer Retention — Use defined KPIs to build a dashboard focused on customer demographics and retention insights.
 3.Task 3: Diversity & Inclusion — Develop visualizations based on HR data, with an emphasis on gender-related metrics within the executive team
 Here are tasks breakdown;
-# 📊 Simulation Tasks Overview – PwC Switzerland Power BI Program on Forage
+# 📊 Simulation Tasks Overview – PwC Switzerland Power BI Program on Forage.
+### Visualization 
+## Insights into Call Centre Trends
