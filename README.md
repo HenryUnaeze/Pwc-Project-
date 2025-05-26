@@ -60,3 +60,12 @@ Total Charges (All Time): ~$2,283.30
 ## Contract Types:
 Month-to-Month is dominant, which can be a churn risk.
 Two-year contracts are least common, suggesting fewer customers are locked into long-term agreements.
+
+## Customer Risk Analysis 
+![alt text](https://github.com/HenryUnaeze/Pwc-Project-/blob/main/Pwc%20Task%202.1%20(Risk).png)
+
+Below are the insight of customer risk analysis
+1. Customer retention in the telecom industry is vital because gaining new customers is significantly more difficult.
+2. The retention team is essential for reconnecting with customers who have chosen to cancel their contracts.
+3. Currently, this method is reactive—reaching out only after contracts end—but a proactive strategy to identify customers at risk of leaving would yield better results
+   
